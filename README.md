@@ -17,10 +17,10 @@ This chatbot leverages Machine Learning and Natural Language Processing to provi
 
 ## 👥 The Team
 This project is being collaboratively built by undergraduate students at IIITDM Jabalpur:
-* **YashGupta** – 
-* **AaryaveerSingh** – 
-* **MeetBisen** – 
-* **Dhruvi Patil** –
-* **Shridul** -
+* **Yash Gupta** 
+* **Aaryaveer Singh** 
+* **Meet Bisen** 
+* **Dhruvi Patil** 
+* **Shridul** 
 ---
 *Developed with ❤️ by the ERS Club, IIITDMJ*
